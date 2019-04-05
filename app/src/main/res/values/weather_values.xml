@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //Clear day
+    <string name="wi_forecast_io_clear_day_800">&#xf00d;</string>
+
+    //Clear night
+    <string name="wi_night_clear">&#xf02e;</string>
+
+    //Cloudy
+    <string name="wi_day_cloudy">&#xf002;</string>
+
+    //thunderstorm
+    <string name="wi_day_thunderstorm_2xx">&#xf010;</string>
+
+    //Drizzle
+    <string name="wi_day_rain_3xx">&#xf008;</string>
+
+    //Rain
+    <string name="wi_rain_mix_5xx">&#xf017;</string>
+
+    //Snow
+    <string name="wi_snow_6xx">&#xf01b;</string>
+
+    //fog
+    <string name="wi_fog_7xx">&#xf014;</string>
+
+    //Cloudy
+    <string name="wi_cloud_up_80x">&#xf040;</string>
+
+
+
+
+</resources>
